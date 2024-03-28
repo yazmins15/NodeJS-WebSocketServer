@@ -41,3 +41,4 @@ btnEnviar.addEventListener('click', () => {
 })
 
 //console.log("Hello");
+//http://localhost:8080/socket.io/socket.io.js
